@@ -1,6 +1,6 @@
 # FSD-Bot-Socket (Python Version)
 
-![License](https://img.shields.io/badge/Code-Python-blue.svg)
+![Code](https://img.shields.io/badge/Code-Python-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **FSD-Bot-Socket** is a Python script designed to establish communication with an FSD (Flight Simulation Data) server using sockets. It allows you to monitor and interact with various events, such as ATC (Air Traffic Control) controllers and pilots going online and offline, within a flight simulation environment.
