@@ -37,11 +37,11 @@ pip install time
 
 ## Languages
 
-- [Python Version](https://github.com/XLiaovo/FSD-Bot-Socket-Python-Version
+- [Python Version](https://github.com/XLiaovo/FSD-Bot-Socket-Python
 )
-- [C++ Version](https://github.com/XLiaovo/FSD-Bot-Socket-Cpp-Version
+- [C++ Version](https://github.com/XLiaovo/FSD-Bot-Socket-Cpp
 )
-- [Go Version](https://github.com/XLiaovo/FSD-Bot-Socket-Golang-Version
+- [Go Version](https://github.com/XLiaovo/FSD-Bot-Socket-Golang
 )
 
 ## License
